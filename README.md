@@ -9,7 +9,7 @@ A Vue 2 + Vuetify component for displaying and editing Iranian license plates, w
 
 ---
 
-![Preview of Iranian License Plate Component](./preview.png)
+![Preview of Iranian License Plate Component](https://github.com/devpactteam/iranian-license-plate/blob/main/preview.png)
 
 > *Live preview of the `vue-iranian-license-plate` component in editable and read-only modes.*
 

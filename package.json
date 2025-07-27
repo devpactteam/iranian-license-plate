@@ -1,0 +1,24 @@
+{
+  "name": "vue-iranian-license-plate",
+  "version": "1.0.1",
+  "description": "A reusable Vue 2 + Vuetify component for Iranian vehicle license plates.",
+  "main": "src/IranianLicensePlate.vue",
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "vue",
+    "vuetify",
+    "license plate",
+    "iran",
+    "component"
+  ],
+  "author": "devpacteam <info@devpactteam.com> (https://devpactteam.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/devpactteam/iranian-license-plate.git"
+  },
+  "license": "MIT"
+}

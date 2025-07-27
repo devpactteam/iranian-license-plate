@@ -1,6 +1,6 @@
 {
   "name": "vue-iranian-license-plate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A reusable Vue 2 + Vuetify component for Iranian vehicle license plates.",
   "main": "src/IranianLicensePlate.vue",
   "files": [

@@ -6,7 +6,8 @@
   "files": [
     "src",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "preview.png"
   ],
   "keywords": [
     "vue",

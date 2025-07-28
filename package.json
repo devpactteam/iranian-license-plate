@@ -5,6 +5,7 @@
   "main": "src/IranianLicensePlate.vue",
   "files": [
     "src",
+    "public",
     "LICENSE",
     "README.md",
     "preview.png"
